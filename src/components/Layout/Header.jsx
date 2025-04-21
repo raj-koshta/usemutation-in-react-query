@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header>
       <div>
-        <NavLink to="/"> TanStack Query </NavLink>
+        <NavLink to="/usemutation-in-react-query/"> TanStack Query </NavLink>
         <ul>
           <li><NavLink to="/usemutation-in-react-query/">Home</NavLink></li>
           <li><NavLink to="/usemutation-in-react-query/trad">FetchOld</NavLink></li>
